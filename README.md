@@ -9,7 +9,6 @@
 <br>
 
 <div align="center">
-  <img src="https://iili.io/qCyF57e.jpg" width="400" alt="EXP-LINK Banner 1"/>
   <img src="https://iili.io/qCyKAnR.jpg" width="400" alt="EXP-LINK Banner 3"/>
 </div>
 
