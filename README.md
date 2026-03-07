@@ -1262,7 +1262,7 @@ Method Link
 
 <div align="center">
 
-<img src="https://iili.io/qCyKn8F.png" width="200" alt="EXP-LINK Logo"/>
+<img src="https://iili.io/qCyKn8F.png" width="900" alt="EXP-LINK Logo"/>
 
 <br>
 
