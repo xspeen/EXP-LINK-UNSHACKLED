@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=NO+LIMITS+DOWNLOADER;PRIVATE+CONTENT+BYPASS;PREMIUM+MEDIA+EXTRACTOR;100%25+WORKING+UNSHACKLED)](https://git.io/typing-svg)
 
-<img src="https://iili.io/qCyKn8F.png" width="300" alt="EXP-LINK Main Logo"/>
+<img src="https://iili.io/qCyKn8F.png" width="900" alt="EXP-LINK Main Logo"/>
 
 <br>
 
