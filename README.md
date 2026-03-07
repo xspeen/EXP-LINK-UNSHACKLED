@@ -8,9 +8,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://iili.io/qCyKAnR.jpg" width="400" alt="EXP-LINK Banner 3"/>
-</div>
+
 
 <br>
 
